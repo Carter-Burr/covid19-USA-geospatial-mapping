@@ -71,7 +71,7 @@ const colors = [
 ];
 
 const legend = document.getElementById('legend');
-legend.innerHTML = "<b>Covid cases per 1000 residents <br></b>(2020?)<br><br>";
+legend.innerHTML = "<b>Covid Cases Rate <br></b>(per 1000)<br><br>";
 
 layers.forEach((layer, i) => {
     const color = colors[i];
