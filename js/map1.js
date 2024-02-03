@@ -37,7 +37,7 @@ map.on('load', () => { //simplifying the function statement: arrow with brackets
                 100,         // stop_input_4
                 '#800026'   // stop_output_5   
             ],
-            'fill-outline-color': '#BBBBBB',
+            'fill-outline-color': '#8c8b8b',
             'fill-opacity': 0.7,
         }
     });
