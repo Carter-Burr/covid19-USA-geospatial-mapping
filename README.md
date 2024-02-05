@@ -1,7 +1,7 @@
 # Mapping Covid Across the United States in 2020
 
 ### Introduction
-For this project I created two distinct thematic maps by integrating data on COVID-19 cases and rates into interactive and informative visualizations. By leveraging Geographic Information Systems (GIS) techniques, I was able to create a visualization of how the pandemic has affected various communities within the United States. Both of these maps also feature a unique interactive element that aids the viewer into diving deeper into the story of Covid-19 in the US.
+For this project I created two distinct thematic maps by integrating data on COVID-19 cases and rates into interactive and informative visualizations. By leveraging GIS techniques, I was able to create a visualization of how the pandemic has affected various communities within the United States. Both of these maps also feature a unique interactive element that aids the viewer into diving deeper into the story of Covid-19 in the US.
 
 
 
